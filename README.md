@@ -10,7 +10,7 @@ Update April 27, 2020: San Juan County has been added but has incomplete owner i
 Within the Parcel filter folder you will see Inputs, Outputs, TimberGUI, and timberGui_newCounties.exe. The contents of the Inputs and TimberGUI folders should not be moved or changed at all. Use the .exe to start the program. The outputs folder is currently empty, it is there as a placeholder. Feel free to save outputs to other places on your computer.
 
 Within the Parcel filter program, select one of the county folders within the provided Inputs folder as the Input File Directory. Select any location for the output files to be saved to.
- 
+ ![alt text](https://github.com/Ehelderop/timber-query/blob/master/imgs/CSV_img1.png)
 
 Select one of the three owner status radio buttons. The private owner only filters out government entities, corporations, religious organizations, native american tribes, etc. as owners.
 
