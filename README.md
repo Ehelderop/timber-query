@@ -5,7 +5,7 @@ README for Timber parcel filter and parcel CSV editor
 
 Update April 27, 2020: San Juan County has been added but has incomplete owner info in its dataset. As such, some of those filters may not work correctly when filtering the parcels. However, if parcels are filtered based on other criteria, that owner info can be found when accessing the San Juan County assessor website using the CSV Edit program.
 
-Parcel Filter
+**Parcel Filter**
 
 Within the Parcel filter folder you will see Inputs, Outputs, TimberGUI, and timberGui_newCounties.exe. The contents of the Inputs and TimberGUI folders should not be moved or changed at all. Use the .exe to start the program. The outputs folder is currently empty, it is there as a placeholder. Feel free to save outputs to other places on your computer.
 
@@ -29,7 +29,7 @@ The percent coverage fields take a value from 0 to 100 and remove any parcels th
 Run with selected filters to generate the output CSV in the selected output folder (this can take up to a minute).
 
 
-CSV Editor
+**CSV Editor**
 
 Once again, leave the contents of these subfolders intact. Use the CSVEdit_newCounties.exe to start the program.
 
